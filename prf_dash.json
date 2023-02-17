@@ -1,0 +1,14 @@
+[
+  { "value": 20, "name": "Aconselhamento sobre auto monitoramento" },
+  { "value": 15, "name": "Aconselhamento sobre armazenamento dos medicamentos" },
+  { "value": 10, "name": "Aconselhamento sobre acesso aos medicamentos" },
+  { "value": 9, "name": "Outro aconselhamento não especificado" },
+  { "value": 9, "name": "Início de novo medicamento" },
+  { "value": 8, "name": "Suspensão de medicamento" },
+  { "value": 3, "name": "Sugestão de substituição de medicamento" },
+  { "value": 2, "name": "Alteração de forma farmacêutica" },
+  { "value": 2, "name": "Alteração de via de administração" },
+  { "value": 1, "name": "Rótulos/ instruções pictóricas ou calendário posológico de medicamentos" },
+  { "value": 1, "name": "Informe terapêutico/ relatório ao médico ou outros profissionais" },
+  { "value": 1, "name": "GMaterial educativo impresso/panfleto2" }
+]  
