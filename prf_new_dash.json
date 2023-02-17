@@ -1,0 +1,16 @@
+[
+  { "value": 31, "name": "Sobredose - Intoxicação medicamentosa acidental" },
+  { "value": 25, "name": "Reação alérgica a medicamentos" },
+  { "value": 19, "name": "Reação adversa a medicamentos" },
+  { "value": 12, "name": "Outro problema de efetividade" },
+  { "value": 8, "name": "Interação medicamento-alimento (redução de concentração plasmática)" },
+  { "value": 8, "name": "Interação medicamento-medicamento (redução de concentração plasmática" },
+  { "value": 5, "name": "Prescrição em subdose" },
+  { "value": 5, "name": "Tratamento não efetivo sem causa definida" },
+  { "value": 2, "name": "Outro problema de necessidade" },
+  { "value": 2, "name": "Automedicação desnecessária" },
+  { "value": 2, "name": "Prescrição de medicamento com indicação clínica questionável" },
+  { "value": 1, "name": "Duração de tratamento prescrito inadequadamente" },
+  { "value": 1, "name": "Necessidade de medicamento adicional" },
+  { "value": 1, "name": "Condição clínica sem tratamento" }
+]  
