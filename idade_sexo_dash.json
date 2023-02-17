@@ -1,0 +1,142 @@
+[
+  {
+    "Idade": "27",
+    "value": 10,
+    "type": "Masculino"
+  },
+  {
+    "Idade": "29",
+    "value": 11,
+    "type": "Masculino"
+  },
+  {
+    "Idade": "30",
+    "value": 12,
+    "type": "Masculino"
+  },
+  {
+    "Idade": "33",
+    "value": 14,
+    "type": "Masculino"
+  },
+  {
+    "Idade": "34",
+    "value": 28,
+    "type": "Masculino"
+  },
+  {
+    "Idade": "36",
+    "value": 37,
+    "type": "Masculino"
+  },
+  {
+    "Idade": "41",
+    "value": 40,
+    "type": "Masculino"
+  },
+  {
+    "Idade": "44",
+    "value": 31,
+    "type": "Masculino"
+  },
+  {
+    "Idade": "48",
+    "value": 22,
+    "type": "Masculino"
+  },
+  {
+    "Idade": "49",
+    "value": 18,
+    "type": "Masculino"
+  },
+  {
+    "Idade": "52",
+    "value": 13,
+    "type": "Masculino"
+  },
+  {
+    "Idade": "60",
+    "value": 10,
+    "type": "Masculino"
+  },
+  {
+    "Idade": "27",
+    "value": 8,
+    "type": "Feminino"
+  },
+  {
+    "Idade": "29",
+    "value": 7,
+    "type": "Feminino"
+  },
+  {
+    "Idade": "30",
+    "value": 12,
+    "type": "Feminino"
+  },
+  {
+    "Idade": "33",
+    "value": 14,
+    "type": "Feminino"
+  },
+  {
+    "Idade": "34",
+    "value": 25,
+    "type": "Feminino"
+  },
+  {
+    "Idade": "36",
+    "value": 35,
+    "type": "Feminino"
+  },
+  {
+    "Idade": "42",
+    "value": 44,
+    "type": "Feminino"
+  },
+  {
+    "Idade": "44",
+    "value": 27,
+    "type": "Feminino"
+  },
+  {
+    "Idade": "48",
+    "value": 16,
+    "type": "Feminino"
+  },
+  {
+    "Idade": "50",
+    "value": 14,
+    "type": "Feminino"
+  },
+  {
+    "Idade": "52",
+    "value": 13,
+    "type": "Feminino"
+  },
+  {
+    "Idade": "60",
+    "value": 5,
+    "type": "Feminino"
+  },
+  {
+    "Idade": "27",
+    "value": 3,
+    "type": "Ignorado / Indeterminado"
+  },
+  {
+    "Idade": "28",
+    "value": 8,
+    "type": "Ignorado / Indeterminado"
+  },
+  {
+    "Idade": "32",
+    "value": 12,
+    "type": "Ignorado / Indeterminado"
+  },
+  {
+    "Idade": "33",
+    "value": 8,
+    "type": "Ignorado / Indeterminado"
+  }
+]
